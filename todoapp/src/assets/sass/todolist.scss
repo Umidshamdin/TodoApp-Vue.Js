@@ -1,0 +1,37 @@
+#inputSubmit {
+  .inputButton {
+   
+    form{
+       display: flex;
+       display: flex;
+       justify-content: center;
+    }
+    input {
+      width: 60%;
+      height: 50px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 0 10px;
+      font-size: 16px;
+    }
+  }
+  .selectSubmit {
+    display: block;
+    justify-content: center;
+    margin-left: 230px;
+    margin-top: 23px;
+    select {
+      width: 200px;
+    }
+  }
+}
+#tableSubmit {
+  .table {
+    width: 64%;
+  }
+  .tables {
+    display: flex;
+    justify-content: center;
+    margin-top: 95px;
+  }
+}
